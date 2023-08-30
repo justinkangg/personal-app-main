@@ -1,0 +1,10 @@
+---
+title: Two-Stage Deep Learning Method for Breast Cancer Detection Using High-Resolution Mammogram Images
+description: Breast cancer screening and detection using high-resolution mammographic images have always been a difficult task in computer vision due to the presence of very small yet clinically significant abnormal growths in breast masses. The size difference between such masses and the overall mammogram image as well as difficulty in distinguishing intra-class features of the Breast Imaging Reporting and Database System (BI-RADS) categories creates challenges for accurate diagnosis. To obtain near-optimal results, object detection models should be improved by directly focusing on breast cancer detection. In this work, we propose a new two-stage deep learning method. In the first stage, the breast area is extracted from the mammogram and small square patches are generated to narrow down the region of interest (RoI). In the second stage, breast masses are detected and classified into BI-RADS categories. To improve the classification accuracy for intra-classes, we design an effective tumor classification model and combine its results with the detection model’s classification scores. Experiments conducted on the newly collected high-resolution mammography dataset demonstrate our two-stage method outperforms the original Faster R-CNN model by improving mean average precision (mAP) from 0.85 to 0.94. In addition, comparisons with existing works on a popular INbreast dataset validate the performance of our two-stage model.
+employee: Justin Kang
+# employmentTime: 10
+employeeImage: https://as2.ftcdn.net/v2/jpg/01/93/18/61/1000_F_193186103_dXiWuWhu8h1wumboa5vEzsmtjvuMYaF1.jpg
+coverImage: https://as2.ftcdn.net/v2/jpg/01/93/18/61/1000_F_193186103_dXiWuWhu8h1wumboa5vEzsmtjvuMYaF1.jpg
+date: "2022"
+---
+[TWO-STAGE DEEP LEARNING METHOD FOR BREAST CANCER DETECTION USING HIGH-RESOLUTION MAMMOGRAM IMAGES](https://www.mdpi.com/2076-3417/12/9/4616)

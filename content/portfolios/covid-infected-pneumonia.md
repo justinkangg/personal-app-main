@@ -1,0 +1,10 @@
+---
+title: Deep Learning Model for COVID-19-Infected Pneumonia Diagnosis Using Chest Radiography Images
+description: Accurate and early detection of causes of pneumonia is important for implementing fast treatment and preventive strategies, reducing the burden of infections, and establishing more effective ways of interventions. After the outbreak of COVID-19, the new cases of pneumonia and conditions of breathing problems called acute respiratory distress syndrome have increased. Chest radiography, known as CXR or simply X-ray has become a significant source to diagnose COVID-19-infected pneumonia in designated institutions and hospitals. It is essential to develop automated computer systems to assist doctors and medical experts to diagnose pneumonia in a fast and reliable manner. In this work, we propose a deep learning (DL)-based computer-aided diagnosis system for rapid and easy detection of pneumonia using X-ray images. To improve classification accuracy and faster conversion of the models, we employ transfer learning and parallel computing techniques using well-known DL models such as VGG19 and ResNet50. Experiments are conducted on the large COVID-QU-Ex dataset of X-ray images with three classes, such as COVID-19-infected pneumonia, non-COVID-19 infections (other viral and bacterial pneumonia), and normal (uninfected) images. The proposed model outperformed compared methodologies, achieving an average classification accuracy of 96.6%. Experimental results demonstrate that the proposed method is effective in diagnosing pneumonia using X-ray images.
+employee: Justin Kang
+# employmentTime: 10
+employeeImage: https://as1.ftcdn.net/v2/jpg/03/13/77/10/1000_F_313771017_IwkRaiCBGcuVgchn995CcSa6Alk8lNWu.jpg
+coverImage: https://as1.ftcdn.net/v2/jpg/03/13/77/10/1000_F_313771017_IwkRaiCBGcuVgchn995CcSa6Alk8lNWu.jpg
+date: "2023"
+---
+[DEEP LEARNING MODEL FOR COVID-19-INFECTED PNEUMONIA DIAGNOSIS USING CHEST RADIOGRAPHY IMAGES](https://www.mdpi.com/2673-7426/2/4/43)
