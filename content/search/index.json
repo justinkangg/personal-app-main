@@ -31,8 +31,8 @@
   },
   {
     "slug": "breast-cancer-detection",
-    "title": "Comparison of coronary plaque characteristics utilizing CCTA",
-    "description": "In this cross-sectional study, 61 SA subjects under age the age of 65, who underwent coronary computed tomography angiography (CCTA) and had CAC>0 were matched 1:1 for age, sex and diabetes mellitus with 61 NHW. Quantitative coronary plaque analysis was conducted using automated plaque analysis software (Cleerly, NY, NY). Plaque volumes, measured in cubic millimeters, were reported for each plaque subtype.",
+    "title": "Two-Stage Deep Learning Method for Breast Cancer Detection Using High-Resolution Mammogram Images",
+    "description": "Breast cancer screening and detection using high-resolution mammographic images have always been a difficult task in computer vision due to the presence of very small yet clinically significant abnormal growths in breast masses. The size difference between such masses and the overall mammogram image as well as difficulty in distinguishing intra-class features of the Breast Imaging Reporting and Database System (BI-RADS) categories creates challenges for accurate diagnosis. To obtain near-optimal results, object detection models should be improved by directly focusing on breast cancer detection. In this work, we propose a new two-stage deep learning method. In the first stage, the breast area is extracted from the mammogram and small square patches are generated to narrow down the region of interest (RoI). In the second stage, breast masses are detected and classified into BI-RADS categories. To improve the classification accuracy for intra-classes, we design an effective tumor classification model and combine its results with the detection model’s classification scores. Experiments conducted on the newly collected high-resolution mammography dataset demonstrate our two-stage method outperforms the original Faster R-CNN model by improving mean average precision (mAP) from 0.85 to 0.94. In addition, comparisons with existing works on a popular INbreast dataset validate the performance of our two-stage model.",
     "category": "portfolios"
   }
 ]
